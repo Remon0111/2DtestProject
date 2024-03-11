@@ -1,1 +1,1 @@
-# 2DtestProject
+# これはUnityの練習用リポジトリです。
